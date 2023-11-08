@@ -4,7 +4,6 @@ using system.Linq;
 using system.Text;
 using system.Threading.Tasks;
 
-
 namespace Video1
 {
     class Program

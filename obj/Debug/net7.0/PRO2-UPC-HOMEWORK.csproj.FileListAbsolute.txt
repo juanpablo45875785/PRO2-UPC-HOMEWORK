@@ -1,0 +1,4 @@
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.AssemblyInfoInputs.cache
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.AssemblyInfo.cs
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.csproj.CoreCompileInputs.cache
