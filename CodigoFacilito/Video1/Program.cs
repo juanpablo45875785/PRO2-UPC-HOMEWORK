@@ -1,8 +1,8 @@
-using system;
-using system.Collections.Generic;
-using system.Linq;
-using system.Text;
-using system.Threading.Tasks;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Video1
 {
@@ -13,8 +13,8 @@ namespace Video1
             // este es un programa de hola mundo
             /*este es un comentario 
             de bloque */
-            console.WriteLine("Hola Mundo");
-            console.ReadKey();
+            Console.WriteLine("Hola Mundo");
+            Console.ReadKey();
         }
     }
 }

@@ -2,3 +2,13 @@ C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UP
 C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.AssemblyInfoInputs.cache
 C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.AssemblyInfo.cs
 C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.csproj.CoreCompileInputs.cache
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\bin\Debug\net7.0\PRO2-UPC-HOMEWORK.exe
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\bin\Debug\net7.0\PRO2-UPC-HOMEWORK.deps.json
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\bin\Debug\net7.0\PRO2-UPC-HOMEWORK.runtimeconfig.json
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\bin\Debug\net7.0\PRO2-UPC-HOMEWORK.dll
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\bin\Debug\net7.0\PRO2-UPC-HOMEWORK.pdb
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.dll
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\refint\PRO2-UPC-HOMEWORK.dll
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.pdb
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\PRO2-UPC-HOMEWORK.genruntimeconfig.cache
+C:\Users\MI PC\Desktop\CodigoFacilito\PRO2-UPC-HOMEWORK\obj\Debug\net7.0\ref\PRO2-UPC-HOMEWORK.dll
