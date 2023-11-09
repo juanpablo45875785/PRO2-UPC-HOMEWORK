@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MI PC\\Desktop\\CodigoFacilito\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj": {}
+    "C:\\UPC\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MI PC\\Desktop\\CodigoFacilito\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj": {
+    "C:\\UPC\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MI PC\\Desktop\\CodigoFacilito\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj",
+        "projectUniqueName": "C:\\UPC\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj",
         "projectName": "Tarea 1",
-        "projectPath": "C:\\Users\\MI PC\\Desktop\\CodigoFacilito\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj",
+        "projectPath": "C:\\UPC\\PRO2-UPC-HOMEWORK\\Tarea 1\\Tarea 1.csproj",
         "packagesPath": "C:\\Users\\MI PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MI PC\\Desktop\\CodigoFacilito\\PRO2-UPC-HOMEWORK\\Tarea 1\\obj\\",
+        "outputPath": "C:\\UPC\\PRO2-UPC-HOMEWORK\\Tarea 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MI PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
