@@ -4,19 +4,19 @@
     {
         Console.WriteLine("CODIGO: Iterativo");
         // Llama a la función para generar la serie Iteractivo con los primeros 10 términos
-        GenerarSerieIterativo(10);
+        GenerarSerieIterativo(8);
 
         // Imprime un salto de línea para separar las dos secuencias
         Console.WriteLine();
         Console.WriteLine("CODIGO: Recursivo");
 
         // Llama a la función para generar la serie recursiva con los primeros 10 términos
-        GenerarSerieRecursivo(10, 1);
+        GenerarSerieRecursivo(8, 1);
         
     }
     public static void GenerarSerieIterativo(int A)
 {
-    // Itera desde 1 hasta n
+    // Itera desde 1 hasta A
     for (int i = 1; i <= A; i++)
     {
         // Imprime el término generado por la función GenerarSerie
