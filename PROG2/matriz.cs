@@ -52,7 +52,7 @@ public class MatrizCadenas{
         if(cant <= 7){
             int difCaracteres = 7 - cant;
             for(int i = 0; i < difCaracteres; i++){
-                espacios = espacios + "";
+                espacios = espacios + " ";
             }
         }
         M[posX, posY] = ele + espacios;
@@ -104,4 +104,14 @@ public class MatrizCadenas{
         }
         Insertar(x, y, alfilAux);
     }
+    public void MoverCaballoWhite(int x, int y)
+{
+    string cabAux = A(x, y);
+    Insertar(x, y, defaultValue);
+
+    // Actualizar las coordenadas del caballo
+    x = x + 2; //ise dos moviemiento
+    y = y + 4;
+    Insertar(x, y, cabAux);
+}
 }

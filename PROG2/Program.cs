@@ -52,6 +52,7 @@
         MC.MoverBlackPeon(5, 6);
         MC.MoverBlackPeon(5, 5);
         MC.MoverBlackAlfil(2, 7 , 2, true);
+        MC.MoverCaballoWhite(1  , 0);
         MC.MostrarMatriz();
     }
 }
